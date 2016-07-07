@@ -1,0 +1,14 @@
+layout_spectrum: 0.5171413535717875
+typography_spectrum: 0.9944338209461421
+color:
+  brandStrength: 0.7249368722550571
+  lightness: 0.7580504841171205
+  saturation: 0.68555101682432
+  rhythmicContrast: 0.6187004097737372
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: clarke-mcalarney blog
